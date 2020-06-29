@@ -24,5 +24,5 @@ fun User.toUserView(): UserView {
 
 fun Date.humanizeDiff(): String {
     // TODO Humanize
-    return ""
+    return "какое-то время назад"
 }
